@@ -1,0 +1,7 @@
+# Dirs
+build/
+
+# Files
+
+# Hidden
+.cache/
